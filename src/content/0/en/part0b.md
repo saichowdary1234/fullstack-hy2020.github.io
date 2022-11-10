@@ -27,7 +27,7 @@ The console looks like this:
 Make sure that the <i>Network</i> tab is open, and check the <i>Disable cache</i> option as shown. <i>Preserve log</i> can also be useful: it saves the logs printed by the application when the page is reloaded. 
 
 **NB:** The most important tab is the <i>Console</i> tab. However, in this introduction we will be using the <i>Network</i> tab quite a bit.
-
+hvjyv
 ### HTTP GET
 
 The server and the web browser communicate with each other using the [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) protocol. The <i>Network</i> tab shows how the browser and the server communicate.
